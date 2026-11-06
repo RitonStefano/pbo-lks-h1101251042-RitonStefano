@@ -1,0 +1,15 @@
+# PBO LKS — Portofolio Praktikum
+
+- Nama : Riton Stefano
+- NIM : H1101251042
+- Kelas: B
+
+## Daftar Pertemuan
+
+- [X] Pertemuan 1 — Setup & Database
+- [X] Pertemuan 2 — Core OOP
+- [X] Pertemuan 3 — Framework & Routing
+- [X] Pertemuan 4 — Testing Backend
+- [X] Pertemuan 5 — CRUD Kategori
+- [X] Pertemuan 6 — Frontend
+- [X] Pertemuan 7 — Integrasi & Finalisasi
